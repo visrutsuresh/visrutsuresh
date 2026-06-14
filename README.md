@@ -70,6 +70,14 @@
 
 <br/>
 
+## 📅 My Year in Code
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="Isometric calendar of my GitHub activity over the past year" />
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
