@@ -45,6 +45,19 @@
 
 <br/>
 
+## 🔧 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/visrutsuresh/FinTech-Innovators-Hackathon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=visrutsuresh&repo=FinTech-Innovators-Hackathon&theme=github_dark&hide_border=true" alt="FinTech-Innovators-Hackathon" />
+  </a>
+  <a href="https://github.com/visrutsuresh/SC2006-EVENTURE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=visrutsuresh&repo=SC2006-EVENTURE&theme=github_dark&hide_border=true" alt="SC2006-EVENTURE" />
+  </a>
+</div>
+
+<br/>
+
 ## 🐍 Watch the snake eat my contributions
 
 <div align="center">
