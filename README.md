@@ -16,7 +16,7 @@
 - 🤖 &nbsp;Aspiring **software engineer & AI developer** — I like building systems that run themselves.
 - 📈 &nbsp;Outside coursework I build **autonomous algorithmic-trading systems** (Python, ML, live market data) as a long-running personal project.
 - 🌱 &nbsp;Currently going deep on **machine learning, quantitative modelling, and full-stack development**.
-- 💬 &nbsp;Ask me about Python, ML, or turning messy data into decisions.
+- ⚡ &nbsp;Fun fact: I'll happily spend 4 hours automating a 5-minute task, and I have.
 
 <br/>
 
@@ -60,11 +60,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Visrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=visrutsuresh&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visrutsuresh&layout=compact&theme=github_dark&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=visrutsuresh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Visrut's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visrutsuresh&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
@@ -74,6 +71,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/visrut-suresh-/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/visrut.suresh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visrutwork@gmail.com)
 
 </div>
